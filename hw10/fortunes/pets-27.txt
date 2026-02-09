@@ -1,0 +1,5 @@
+	"Anything else you wish to draw to my attention, Mr. Holmes ?"
+	"The curious incident of the stable dog in the nighttime."
+	"But the dog did nothing in the nighttime."
+	"That was the curious incident."
+		-- A. Conan Doyle, "Silver Blaze"
