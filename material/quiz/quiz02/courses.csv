@@ -1,0 +1,10 @@
+School,Department,Course number,Course name,Enrollment,Capacity
+Math and Science,Chemistry,305,Organic Chem,18,20
+Humanities,History,360,Cold War,15,22
+Math and Science,Mathematics,221,Calculus II,22,22
+Humanities,History,101,US History,20,20
+Humanities,History,410,Capstone,12,15
+Engineering,Electrical Engineering,312,Signals,12,20
+Engineering,Electrical Engineering,211,Circuits,20,22
+Engineering,Electrical Engineering,301,Digital Systems,15,20
+Humanities,History,350,Naval History,19,22

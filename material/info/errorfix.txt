@@ -1,0 +1,11 @@
+If the error message contains something like "corrupt" and "empty file":
+find .git/objects/ -type f -empty | xargs rm
+git fetch -p
+git fsck --full
+210sync
+
+If the error message contains something like "git config pull.rebase...":
+git config pull.rebase false
+210sync
+
+
