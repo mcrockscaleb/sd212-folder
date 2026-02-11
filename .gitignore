@@ -207,3 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 /quiz*/
+
+# Ignore large data files in Lab 01
+material/lab/lab01/*.csv

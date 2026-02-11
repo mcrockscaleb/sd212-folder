@@ -3,8 +3,10 @@
         "*": false
     },
     "git.enabled": false,
-    "python.defaultInterpreterPath": "${workspaceFolder}/.pixi/envs/default/bin/python",
+    "python.defaultInterpreterPath": "./.pixi/envs/default/bin/python",
     "python.terminal.executeInFileDir": true,
     "python.terminal.activateEnvInCurrentTerminal": true,
-    "jupyter.notebookFileRoot": "${fileDirname}"
+    "jupyter.notebookFileRoot": "${fileDirname}",
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
 }
