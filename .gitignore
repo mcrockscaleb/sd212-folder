@@ -211,4 +211,3 @@ __marimo__/
 
 # Ignore large data files in Lab 01
 material/lab/lab01/*.csv
-material/lab/lab01/*.csv
