@@ -206,7 +206,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Custom ignore rules for SD212 course
 /quiz*/
 
 # Ignore large data files in Lab 01
-material/lab/lab01/*.csvmaterial/lab/lab01/crimes.csv
+material/lab/lab01/*.csv
+material/lab/lab01/crimes.csv
